@@ -1,14 +1,14 @@
 {
-  "name": "@ciaxi/sdk",
+  "name": "@ciaxi/ciaxiswap-sdk",
   "license": "MIT",
-  "version": "2.4.3",
+  "version": "2.4.4",
   "description": "🛠 An SDK for building applications on top of Ciaxi.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/danielvindax/ciaxi-swap-sdk.git",
+  "repository": "https://github.com/ciaxi/ciaxi-swap-sdk.git",
   "keywords": [
     "ciaxiswap",
     "bsc"
@@ -49,6 +49,9 @@
   },
   "engines": {
     "node": ">=10"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   },
   "prettier": {
     "printWidth": 120,
