@@ -1,5 +1,5 @@
 {
-  "name": "@ciaxi/ciaxiswap-sdk",
+  "name": "@danielvindax/ciaxiswap-sdk",
   "license": "MIT",
   "version": "2.4.4",
   "description": "🛠 An SDK for building applications on top of Ciaxi.",
