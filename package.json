@@ -50,9 +50,6 @@
   "engines": {
     "node": ">=10"
   },
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
-  },
   "prettier": {
     "printWidth": 120,
     "semi": false,
